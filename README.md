@@ -35,3 +35,9 @@
 - **RF24**: Informar observação (opcional)
 - **RF25**: Alerta se estoque ficar abaixo do mínimo após movimentação
 - **RF26**: Atualizar lista de produtos após movimentação
+
+
+<img width="728" height="594" alt="image" src="https://github.com/user-attachments/assets/a17da005-a3da-4125-b8e5-124290dec389" />
+
+
+
